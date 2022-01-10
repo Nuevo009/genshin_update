@@ -51,8 +51,3 @@
 * 国际服可以去<https://github.com/rapdodge/GenshinRepository>
 
 * 国服也可以去泡芙大佬那里解析<https://povsister.app/#/desktop-client-ys>，他这种直接帮你找好完整game包，但是不提供更新包和语音包下载，想找这些还是去上面拿。
-
-
-文章采用 [CC BY-SA 4.0 协议][cc-by-nc-sa] ，转载请注明出处！
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
